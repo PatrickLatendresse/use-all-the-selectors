@@ -15,7 +15,7 @@ nav ul {
 }
 
 .wrapper {
-  background-color: #eee85d;
+  background-color: #eee8d5;
 }
 
 .wrapper > .dfn {
@@ -34,9 +34,8 @@ a:not(.no-highlight) {
   background-color: #719e07;
 }
 
-
 [rel="external"] {
-  background-color: #269458;
+  background-color: #2694d8;
 }
 
 ol > li:first-of-type {
@@ -44,7 +43,7 @@ ol > li:first-of-type {
 }
 
 ol > li:last-of-type {
-  color: #2aa198
+  color: #2aa198;
 }
 
 .types > li:nth-child(odd) {
